@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightskyblue;
+    padding: 10px;
+    border-radius: 2mm;
+}
+header img{
+    margin: 5px ;
+}
+h1{
+    font-weight: normal;
+    color: rgb(12, 2, 149);
+    text-align: center;
+}
+footer p{
+    border:2px solid rgb(177, 178, 178);
+    padding: 3px;
+}
+.abc{
+    background-color: rgb(25, 25, 109);
+    border:2px solid rgb(25, 25, 109);
+    text-decoration: none;
+    color: white;
+    padding:5px;
+    border-radius:3mm;
+    margin:20px;
+}
+.classa{
+    border:2px solid rgb(25, 25, 109);
+    text-decoration: none;
+    padding:5px;
+    border-radius:3mm;
+    color: rgb(25, 25, 109);
+     margin:20px;
+}
+
+nav{
+    margin-top: 10px;
+}
+.abcd{
+    background-color: rgb(177, 231, 152);
+    padding: 15px;
+}
+#discount{
+    color: blue;
+}
+.img{
+    border: 1px solid lightskyblue;
+    border-radius: 2mm;
+}
